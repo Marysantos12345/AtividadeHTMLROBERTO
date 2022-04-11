@@ -1,0 +1,56 @@
+.principal{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-style: italic;
+    font-size: 25px;
+
+}
+
+.itens{
+    font-style: italic;
+    font-size: 35px;
+}
+
+.beneficios{
+    background: #ffffff;
+    padding: 15px;
+}
+
+.imagemjoia{
+    width: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 25%;
+
+}
+li{
+    text-align: center;
+}
+
+#joia{
+    width: 100%;
+}
+
+.textoCentralizado{
+    text-align: center;
+}
+
+.tituloPrincipal{
+    padding-left: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+#missao{
+    font-size: 35px;
+}
+
+em strong{
+    color: #1e0202;
+}
